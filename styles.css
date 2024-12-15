@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+
+}
+nav ul{
+    justify-content: center;
+    display: flex;
+    list-style: none;
+
+}
+p{
+    font-size: large;
+    
+}
+
+nav ul li{
+    justify-content: space-between;
+    padding-left: 10px;
+    left: -50%;
+}
+h1, h2 {
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: navy;
+}
+footer{
+    justify-content: center;
+    display: flex;
+    color: white;
+    background-color: navy; 
+}
